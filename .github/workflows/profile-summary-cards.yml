@@ -1,7 +1,8 @@
 name: Profile Summary Cards
+
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *" # يحدث يومياً
   workflow_dispatch:
 
 jobs:
@@ -14,5 +15,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: H-32
-          THEME: nord_dark
           UTC_OFFSET: "+03:00"
+          AUTO_PUSH: true
