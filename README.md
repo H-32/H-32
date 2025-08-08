@@ -58,17 +58,6 @@ class About : Me
 <img src="https://raw.githubusercontent.com/H-32/H-32/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/H-32/H-32/main/profile-summary-card-output/nord_dark/0-profile-details.svg">
 
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/H-32/H-32/main/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
 **Code Cycle**<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Bug time!"/>
