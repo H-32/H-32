@@ -36,7 +36,7 @@
 
 class About : Me 
 { 
-    readonly string[] Languages = { "C#", "C++", "JavaScript", "HTML", "CSS", ".NET" };
+    readonly string[] Languages = { "C#", "C++", "JavaScript", "HTML", "CSS", ".NET" , "Python" , "Flask" , "Django" };
     readonly string[] Database = { "SQL Server", "SQLite" };
     readonly string[] Editors = { "Visual Studio", "VS Code" };
     readonly string[] Platforms = { "Windows" };
